@@ -2,8 +2,7 @@
 
 - Start page
 
-![Screenshot_17_458x766](https://user-images.githubusercontent.com/87265183/149830067-fdf64411-d638-47ca-b5c6-ed3be6157e92.png)
-
+![Screenshot (17)](https://user-images.githubusercontent.com/87265183/149830266-20780a29-04db-463e-b387-2e39efd2b758.png)
 
 - After adding singers
 
